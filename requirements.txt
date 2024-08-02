@@ -3,7 +3,7 @@
 
 #### ESSENTIAL LIBRARIES ####
 
-keras==2.2.4
+keras==2.13.1
 tensorflow>=1.15.2
 scikit-learn==0.20.3
 numpy
